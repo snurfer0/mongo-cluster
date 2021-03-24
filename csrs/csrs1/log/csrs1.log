@@ -4947,3 +4947,7 @@
 {"t":{"$date":"2021-03-24T13:37:42.908+02:00"},"s":"I",  "c":"SHARDING", "id":20997,   "ctx":"conn219","msg":"Refreshed RWC defaults","attr":{"newDefaults":{}}}
 {"t":{"$date":"2021-03-24T13:38:30.917+02:00"},"s":"I",  "c":"SHARDING", "id":20997,   "ctx":"conn219","msg":"Refreshed RWC defaults","attr":{"newDefaults":{}}}
 {"t":{"$date":"2021-03-24T13:38:46.302+02:00"},"s":"I",  "c":"SHARDING", "id":20997,   "ctx":"conn219","msg":"Refreshed RWC defaults","attr":{"newDefaults":{}}}
+{"t":{"$date":"2021-03-24T13:40:06.942+02:00"},"s":"I",  "c":"SHARDING", "id":20997,   "ctx":"conn219","msg":"Refreshed RWC defaults","attr":{"newDefaults":{}}}
+{"t":{"$date":"2021-03-24T13:41:37.376+02:00"},"s":"I",  "c":"SHARDING", "id":22049,   "ctx":"PeriodicShardedIndexConsistencyChecker","msg":"Checking consistency of sharded collection indexes across the cluster"}
+{"t":{"$date":"2021-03-24T13:41:58.153+02:00"},"s":"I",  "c":"SHARDING", "id":20997,   "ctx":"conn219","msg":"Refreshed RWC defaults","attr":{"newDefaults":{}}}
+{"t":{"$date":"2021-03-24T13:42:14.966+02:00"},"s":"I",  "c":"SHARDING", "id":20997,   "ctx":"conn219","msg":"Refreshed RWC defaults","attr":{"newDefaults":{}}}
